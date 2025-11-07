@@ -1,2 +1,4 @@
+w src/my_app
 main.py dotyczy Część I - ćwiczenie 1 i 2
 gen.py dotyczy Cześć I - ćwiczenie 3 i 4
+
